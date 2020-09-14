@@ -11,7 +11,7 @@ Drop a like if you find this good.
 
 ---------------------------------------------------------------
 
-![HomeScreen|620x360](https://user-images.githubusercontent.com/51052011/93103641-84334280-f6ca-11ea-9aa5-58b189da799a.jpg)
+![HomeScreen|512x397, 20%](https://user-images.githubusercontent.com/51052011/93103641-84334280-f6ca-11ea-9aa5-58b189da799a.jpg)
 
   ##                                                      HomeScreen
 
